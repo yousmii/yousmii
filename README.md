@@ -1,6 +1,6 @@
 ### Nice to meet you! ⭐
 
-My name is Yousra2, I'm a Computer Science student, majoring in Software Engineering.
+My name is Yousra, I'm a Computer Science student, majoring in Software Engineering.
 I don't have that many public repositories yet, but I'm working on it. ✨
 
 
