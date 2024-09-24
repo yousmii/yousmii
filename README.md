@@ -1,16 +1,16 @@
-### Nice to meet you! ⭐
+# Nice to meet you! ⭐
 
 My name is Yousra, I'm an IT student based in Antwerp.
 Most of my public repos are projects from different subjects, in case you're interested in what I do sometimes.
 
-#### Mastered languages
+## Mastered languages
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,python"/> 
   </a>
 </p>
 
-#### Learning
+## Learning
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,javascript,html,css,react"/> 
