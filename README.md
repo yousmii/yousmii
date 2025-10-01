@@ -6,13 +6,13 @@ Most of my public repos are projects from different subjects, in case you're int
 ## Mastered languages
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python"/> 
+    <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,scss,bootstrap"/> 
   </a>
 </p>
 
 ## Learning
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,javascript,html,css,react"/> 
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,react,kotlin"/> 
   </a>
 </p>
